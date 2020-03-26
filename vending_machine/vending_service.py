@@ -63,3 +63,6 @@ def buy():
         balance -= buy_drink['price']
         print(f'已購買{buy_drink["name"]}  {buy_drink["price"]}元')
         print(f'購買後餘額為 {balance}元')
+
+
+
